@@ -1,0 +1,154 @@
+2025-04-16 18:32:53,254 - INFO - Iniciando importação de arquivos de: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento
+2025-04-16 18:32:56,055 - ERROR - Erro ao conectar ao banco de dados: could not translate host name "pgadmin" to address: Name or service not known
+
+2025-04-16 18:32:56,057 - ERROR - Erro durante a importação: could not translate host name "pgadmin" to address: Name or service not known
+
+2025-04-16 18:32:56,058 - INFO - Processo de importação concluído
+2025-04-16 18:35:30,845 - INFO - Iniciando importação de arquivos de: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento
+2025-04-16 18:35:30,953 - INFO - Conexão com o banco de dados estabelecida com sucesso
+2025-04-16 18:35:30,954 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\ABRIR SERVER COMO USUÁRIO.txt
+2025-04-16 18:35:31,092 - INFO - Dados do arquivo ABRIR SERVER COMO USUÁRIO.txt inseridos com sucesso
+2025-04-16 18:35:31,092 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Adicionar planos de fundo TEAMS.txt
+2025-04-16 18:35:31,216 - INFO - Dados do arquivo Adicionar planos de fundo TEAMS.txt inseridos com sucesso
+2025-04-16 18:35:31,216 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Administrador Temporário & Permanente.docx
+2025-04-16 18:35:31,360 - INFO - Dados do arquivo Administrador Temporário & Permanente.docx inseridos com sucesso
+2025-04-16 18:35:31,361 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Aplicação CAC.txt
+2025-04-16 18:35:31,497 - INFO - Dados do arquivo Aplicação CAC.txt inseridos com sucesso
+2025-04-16 18:35:31,498 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Armazenamento de dados - espaço sharepoint.docx
+2025-04-16 18:35:31,692 - INFO - Dados do arquivo Armazenamento de dados - espaço sharepoint.docx inseridos com sucesso
+2025-04-16 18:35:31,693 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Atualiza Netskope Linux.txt
+2025-04-16 18:35:31,825 - INFO - Dados do arquivo Atualiza Netskope Linux.txt inseridos com sucesso
+2025-04-16 18:35:31,826 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Aumento de espaço no Sharepoint.txt
+2025-04-16 18:35:31,961 - INFO - Dados do arquivo Aumento de espaço no Sharepoint.txt inseridos com sucesso
+2025-04-16 18:35:31,962 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\BaseProvisóriaChatbot.txt
+2025-04-16 18:35:32,105 - INFO - Dados do arquivo BaseProvisóriaChatbot.txt inseridos com sucesso
+2025-04-16 18:35:32,106 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Comando para exibir conexões de rede ativas.txt
+2025-04-16 18:35:32,236 - INFO - Dados do arquivo Comando para exibir conexões de rede ativas.txt inseridos com sucesso
+2025-04-16 18:35:32,238 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Comando para validar o funcionanmento do agente.txt
+2025-04-16 18:35:32,371 - INFO - Dados do arquivo Comando para validar o funcionanmento do agente.txt inseridos com sucesso
+2025-04-16 18:35:32,372 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Comandos e funções dos RAMAIS.docx
+2025-04-16 18:35:32,523 - INFO - Dados do arquivo Comandos e funções dos RAMAIS.docx inseridos com sucesso
+2025-04-16 18:35:32,524 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\COMANDOS P EXECUTAR OU CMD.txt
+2025-04-16 18:35:32,652 - INFO - Dados do arquivo COMANDOS P EXECUTAR OU CMD.txt inseridos com sucesso
+2025-04-16 18:35:32,652 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Configurando a Meetup.mp4
+2025-04-16 18:35:32,777 - INFO - Dados do arquivo Configurando a Meetup.mp4 inseridos com sucesso
+2025-04-16 18:35:32,778 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Configurando a telefonia da Projuris.docx
+2025-04-16 18:35:32,941 - INFO - Dados do arquivo Configurando a telefonia da Projuris.docx inseridos com sucesso
+2025-04-16 18:35:32,942 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Datadog.txt
+2025-04-16 18:35:33,081 - INFO - Dados do arquivo Datadog.txt inseridos com sucesso
+2025-04-16 18:35:33,082 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Devolução de equipamentos.txt
+2025-04-16 18:35:33,233 - INFO - Dados do arquivo Devolução de equipamentos.txt inseridos com sucesso
+2025-04-16 18:35:33,235 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Disco Cheio Windows.docx
+2025-04-16 18:35:33,404 - INFO - Dados do arquivo Disco Cheio Windows.docx inseridos com sucesso
+2025-04-16 18:35:33,405 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Docker - Validações.docx
+2025-04-16 18:35:33,573 - INFO - Dados do arquivo Docker - Validações.docx inseridos com sucesso
+2025-04-16 18:35:33,575 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Docker.txt
+2025-04-16 18:35:33,745 - INFO - Dados do arquivo Docker.txt inseridos com sucesso
+2025-04-16 18:35:33,746 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Docker_ Netskope 1.pdf
+2025-04-16 18:35:33,932 - INFO - Dados do arquivo Docker_ Netskope 1.pdf inseridos com sucesso
+2025-04-16 18:35:33,932 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Download do Pacote Office.docx
+2025-04-16 18:35:34,088 - INFO - Dados do arquivo Download do Pacote Office.docx inseridos com sucesso
+2025-04-16 18:35:34,088 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Executar a instalação como usuário diferente.docx
+2025-04-16 18:35:34,224 - INFO - Dados do arquivo Executar a instalação como usuário diferente.docx inseridos com sucesso
+2025-04-16 18:35:34,225 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\FAC- Authenticator.docx
+2025-04-16 18:35:34,413 - INFO - Dados do arquivo FAC- Authenticator.docx inseridos com sucesso
+2025-04-16 18:35:34,414 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Fusion Workflows Examples v.1.1 (Traduzido).pdf
+2025-04-16 18:35:34,677 - INFO - Dados do arquivo Fusion Workflows Examples v.1.1 (Traduzido).pdf inseridos com sucesso
+2025-04-16 18:35:34,678 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Fusion Workflows Examples v.1.1.docx
+2025-04-16 18:35:35,024 - INFO - Dados do arquivo Fusion Workflows Examples v.1.1.docx inseridos com sucesso
+2025-04-16 18:35:35,024 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Fusion Workflows Examples v.1.1.pdf
+2025-04-16 18:35:35,249 - INFO - Dados do arquivo Fusion Workflows Examples v.1.1.pdf inseridos com sucesso
+2025-04-16 18:35:35,250 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Guia detalhado.txt
+2025-04-16 18:35:35,389 - INFO - Dados do arquivo Guia detalhado.txt inseridos com sucesso
+2025-04-16 18:35:35,390 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Identity Protection Use Cases v3_5(Traduzido).pdf
+2025-04-16 18:35:35,737 - INFO - Dados do arquivo Identity Protection Use Cases v3_5(Traduzido).pdf inseridos com sucesso
+2025-04-16 18:35:35,738 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Identity Protection Use Cases v3_5.docx
+2025-04-16 18:35:36,059 - INFO - Dados do arquivo Identity Protection Use Cases v3_5.docx inseridos com sucesso
+2025-04-16 18:35:36,060 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Identity Protection Use Cases v3_5.pdf
+2025-04-16 18:35:36,348 - INFO - Dados do arquivo Identity Protection Use Cases v3_5.pdf inseridos com sucesso
+2025-04-16 18:35:36,349 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Licença de software- Solicitação.txt
+2025-04-16 18:35:36,476 - INFO - Dados do arquivo Licença de software- Solicitação.txt inseridos com sucesso
+2025-04-16 18:35:36,477 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Licenças  Gitlab Ultimate, Github Copilot e Jira.txt
+2025-04-16 18:35:36,608 - INFO - Dados do arquivo Licenças  Gitlab Ultimate, Github Copilot e Jira.txt inseridos com sucesso
+2025-04-16 18:35:36,610 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\limpar cache do linux.txt
+2025-04-16 18:35:36,744 - INFO - Dados do arquivo limpar cache do linux.txt inseridos com sucesso
+2025-04-16 18:35:36,744 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Limpeza de SO - Windows 11.bat
+2025-04-16 18:35:36,872 - INFO - Dados do arquivo Limpeza de SO - Windows 11.bat inseridos com sucesso
+2025-04-16 18:35:36,872 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Links úteis SOTPLAN.xlsx
+2025-04-16 18:35:37,240 - ERROR - Erro ao inserir dados do arquivo Links úteis SOTPLAN.xlsx: 'titulo'
+2025-04-16 18:35:37,240 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Linux congela apos suspenção de tela.txt
+2025-04-16 18:35:37,369 - INFO - Dados do arquivo Linux congela apos suspenção de tela.txt inseridos com sucesso
+2025-04-16 18:35:37,370 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Linux não identifica o adaptador Wi-fi.txt
+2025-04-16 18:35:37,505 - INFO - Dados do arquivo Linux não identifica o adaptador Wi-fi.txt inseridos com sucesso
+2025-04-16 18:35:37,505 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\MFA - Procedimetno de configuração.docx
+2025-04-16 18:35:37,672 - INFO - Dados do arquivo MFA - Procedimetno de configuração.docx inseridos com sucesso
+2025-04-16 18:35:37,674 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\MFA _ Documentation _ Support and resources _ Falcon(Traduzido).pdf
+2025-04-16 18:35:37,921 - INFO - Dados do arquivo MFA _ Documentation _ Support and resources _ Falcon(Traduzido).pdf inseridos com sucesso
+2025-04-16 18:35:37,923 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\MFA _ Documentation _ Support and resources _ Falcon.docx
+2025-04-16 18:35:38,187 - INFO - Dados do arquivo MFA _ Documentation _ Support and resources _ Falcon.docx inseridos com sucesso
+2025-04-16 18:35:38,188 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\MFA _ Documentation _ Support and resources _ Falcon.pdf
+2025-04-16 18:35:38,400 - INFO - Dados do arquivo MFA _ Documentation _ Support and resources _ Falcon.pdf inseridos com sucesso
+2025-04-16 18:35:38,400 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Nome grande.txt
+2025-04-16 18:35:38,535 - INFO - Dados do arquivo Nome grande.txt inseridos com sucesso
+2025-04-16 18:35:38,536 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Orientações de uso.txt
+2025-04-16 18:35:38,700 - INFO - Dados do arquivo Orientações de uso.txt inseridos com sucesso
+2025-04-16 18:35:38,702 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Perda ou roubo do notebook.txt
+2025-04-16 18:35:38,836 - INFO - Dados do arquivo Perda ou roubo do notebook.txt inseridos com sucesso
+2025-04-16 18:35:38,837 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Problema na interface gráfica do Ubuntu.txt
+2025-04-16 18:35:38,989 - INFO - Dados do arquivo Problema na interface gráfica do Ubuntu.txt inseridos com sucesso
+2025-04-16 18:35:38,990 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Problemas com teams no Ubuntu.txt
+2025-04-16 18:35:39,140 - INFO - Dados do arquivo Problemas com teams no Ubuntu.txt inseridos com sucesso
+2025-04-16 18:35:39,142 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Problemas de Drivers de Video ou Audio no Ubuntu.txt
+2025-04-16 18:35:39,276 - INFO - Dados do arquivo Problemas de Drivers de Video ou Audio no Ubuntu.txt inseridos com sucesso
+2025-04-16 18:35:39,278 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Problemas na inicialização das estações .txt
+2025-04-16 18:35:39,412 - INFO - Dados do arquivo Problemas na inicialização das estações .txt inseridos com sucesso
+2025-04-16 18:35:39,414 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Procedimentos antivírus.txt
+2025-04-16 18:35:39,548 - INFO - Dados do arquivo Procedimentos antivírus.txt inseridos com sucesso
+2025-04-16 18:35:39,549 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Pular entrada no Email na formatação da maquina.txt
+2025-04-16 18:35:39,683 - INFO - Dados do arquivo Pular entrada no Email na formatação da maquina.txt inseridos com sucesso
+2025-04-16 18:35:39,684 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Range de IPs netskope.txt
+2025-04-16 18:35:39,815 - INFO - Dados do arquivo Range de IPs netskope.txt inseridos com sucesso
+2025-04-16 18:35:39,816 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\RECUPERAR UPDATE COM ERRO.txt
+2025-04-16 18:35:39,943 - INFO - Dados do arquivo RECUPERAR UPDATE COM ERRO.txt inseridos com sucesso
+2025-04-16 18:35:39,943 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Redefinição de Senha Softplan.txt
+2025-04-16 18:35:40,068 - INFO - Dados do arquivo Redefinição de Senha Softplan.txt inseridos com sucesso
+2025-04-16 18:35:40,068 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\RESET DE REDE WINDOWS.txt
+2025-04-16 18:35:40,204 - INFO - Dados do arquivo RESET DE REDE WINDOWS.txt inseridos com sucesso
+2025-04-16 18:35:40,205 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Senha expirada.txt
+2025-04-16 18:35:40,336 - INFO - Dados do arquivo Senha expirada.txt inseridos com sucesso
+2025-04-16 18:35:40,338 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Signoz.txt
+2025-04-16 18:35:40,472 - INFO - Dados do arquivo Signoz.txt inseridos com sucesso
+2025-04-16 18:35:40,474 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Solicitação de ativos.txt
+2025-04-16 18:35:40,612 - INFO - Dados do arquivo Solicitação de ativos.txt inseridos com sucesso
+2025-04-16 18:35:40,614 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\SSH utils.txt
+2025-04-16 18:35:40,749 - INFO - Dados do arquivo SSH utils.txt inseridos com sucesso
+2025-04-16 18:35:40,750 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Suporte via whatsapp.docx
+2025-04-16 18:35:40,905 - INFO - Dados do arquivo Suporte via whatsapp.docx inseridos com sucesso
+2025-04-16 18:35:40,906 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Tech Alert _ Windows crashes related to Falcon Sensor _ 2024-07-19-1.pdf
+2025-04-16 18:35:41,099 - INFO - Dados do arquivo Tech Alert _ Windows crashes related to Falcon Sensor _ 2024-07-19-1.pdf inseridos com sucesso
+2025-04-16 18:35:41,101 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Teste de hardware pela BIOS.docx
+2025-04-16 18:35:41,340 - INFO - Dados do arquivo Teste de hardware pela BIOS.docx inseridos com sucesso
+2025-04-16 18:35:41,340 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\TLS e Docker.txt
+2025-04-16 18:35:41,459 - INFO - Dados do arquivo TLS e Docker.txt inseridos com sucesso
+2025-04-16 18:35:41,460 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\TUTORIAL - CRIAR PENDRIVE INICIALIZÁVEL DO UBUNTU - SOFTPLAN.docx
+2025-04-16 18:35:41,601 - INFO - Dados do arquivo TUTORIAL - CRIAR PENDRIVE INICIALIZÁVEL DO UBUNTU - SOFTPLAN.docx inseridos com sucesso
+2025-04-16 18:35:41,602 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Desinstalar Netskope.txt
+2025-04-16 18:35:41,737 - INFO - Dados do arquivo UBUNTU - Desinstalar Netskope.txt inseridos com sucesso
+2025-04-16 18:35:41,739 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Instalar Netskope.txt
+2025-04-16 18:35:41,882 - INFO - Dados do arquivo UBUNTU - Instalar Netskope.txt inseridos com sucesso
+2025-04-16 18:35:41,884 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Instalar Teams.txt
+2025-04-16 18:35:42,022 - INFO - Dados do arquivo UBUNTU - Instalar Teams.txt inseridos com sucesso
+2025-04-16 18:35:42,023 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Instalar TeamViewer.txt
+2025-04-16 18:35:42,167 - INFO - Dados do arquivo UBUNTU - Instalar TeamViewer.txt inseridos com sucesso
+2025-04-16 18:35:42,170 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Recuperar APT.txt
+2025-04-16 18:35:42,305 - INFO - Dados do arquivo UBUNTU - Recuperar APT.txt inseridos com sucesso
+2025-04-16 18:35:42,307 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\UBUNTU - Resetar rede.txt
+2025-04-16 18:35:42,437 - INFO - Dados do arquivo UBUNTU - Resetar rede.txt inseridos com sucesso
+2025-04-16 18:35:42,439 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Uso da impressora via e-mail.docx
+2025-04-16 18:35:42,597 - INFO - Dados do arquivo Uso da impressora via e-mail.docx inseridos com sucesso
+2025-04-16 18:35:42,598 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\Uso da impressora via e-mail.pdf
+2025-04-16 18:35:42,737 - INFO - Dados do arquivo Uso da impressora via e-mail.pdf inseridos com sucesso
+2025-04-16 18:35:42,737 - INFO - Processando arquivo: C:\Users\fernando.bahia\Downloads\Base Conhecimento TI Multisaas - Base de Conhecimento\VPN Windows Softplan.pdf
+2025-04-16 18:35:42,863 - INFO - Dados do arquivo VPN Windows Softplan.pdf inseridos com sucesso
+2025-04-16 18:35:42,864 - INFO - Conexão com o banco de dados fechada
+2025-04-16 18:35:42,864 - INFO - Processo de importação concluído
