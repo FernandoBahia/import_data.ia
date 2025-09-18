@@ -22,7 +22,7 @@ def get_db_connection():
     """
     Cria e retorna uma conexão com o banco de dados PostgreSQL
     Configurado para conectar no servidor 172.23.1.50, banco 'dbsys'
-    usando o usuário 'pgadmin' e senha 'P94dm1nP4s5'
+    usando o usuário 'pgadmin' e senha 'insert.senha'
     """
     try:
         # Tenta estabelecer a conexão com os parâmetros fornecidos
@@ -181,4 +181,5 @@ if __name__ == "__main__":
     else:
         logging.info(f"Iniciando importação de arquivos de: {input_dir}")
         import_files_to_database(input_dir)  # Inicia o processo principal
+
         logging.info("Processo de importação concluído")
