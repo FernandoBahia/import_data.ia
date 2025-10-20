@@ -21,16 +21,16 @@ logging.basicConfig(
 def get_db_connection():
     """
     Cria e retorna uma conexão com o banco de dados PostgreSQL
-    Configurado para conectar no servidor 172.23.1.50, banco 'dbsys'
+    Configurado para conectar no servidor XXX.XX.X.XX, banco 'dbsys'
     usando o usuário 'pgadmin' e senha 'insert.senha'
     """
     try:
         # Tenta estabelecer a conexão com os parâmetros fornecidos
         conn = psycopg2.connect(
-            host="172.23.1.50",  # Endereço do servidor PostgreSQL
+            host="XXXXX",  # Endereço do servidor PostgreSQL
             dbname="dbsys",  # Nome do banco de dados
             user="pgadmin",  # Nome de usuário 
-            password="P94dm1nP4s5",  # Senha do banco
+            password="XXXXX",  # Senha do banco
             client_encoding='utf-8'  # Codificação de caracteres
         )
         logging.info("Conexão com o banco de dados estabelecida com sucesso")
@@ -183,3 +183,4 @@ if __name__ == "__main__":
         import_files_to_database(input_dir)  # Inicia o processo principal
 
         logging.info("Processo de importação concluído")
+
